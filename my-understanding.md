@@ -3,7 +3,8 @@
 ## Submission Links
 
 **Loom Video (must be set to public — anyone with the link):**
-[paste your Loom video URL here]
+
+https://www.loom.com/share/c11f3973638c44edb38ba4a41a17fa12?t=345
 
 ---
 
