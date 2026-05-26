@@ -1,0 +1,26 @@
+### Get all products
+GET http://localhost:3050/api/products
+
+### Add a product
+POST http://localhost:3050/api/products
+Content-Type: application/json
+
+{
+  "product_name": "Keyboard",
+  "price": "49.99",
+  "quantity": "1"
+}
+
+### Update a product
+PUT http://localhost:3050/api/products/4
+Content-Type: application/json
+
+{
+  "product_name": "Keyboard",
+  "price": "19.99",
+  "quantity": "1"
+}
+
+
+### Delete a product
+DELETE http://localhost:3050/api/products/5
